@@ -4,9 +4,39 @@
 ## atom
 - pacchetti richiesti
 
+        atom-beautify
+        build
         editorconfig
-        atom-beautifier
-        atom-jshint
+        jshint
+        language-batch
+        language-dot
+        language-git
+        language-gitignore
+        language-groovy
+        linter
         linter-jshint
+        linter-package-json-validator
+        merge-conflicts
+        minimap
+        pretty-json
+        select-rectangle
+        sort-lines
+        todo-show
+        xml-formatter
 
-- pacchetti consigliati
+- per verificare da prompt di comandi
+
+        # apm ls
+
+
+# TODO
+tool di sviluppo in uso
+		eclipse
+			galileo
+			helios
+			boh?
+		myeclipse
+		db
+			toad
+			sql detective
+			sqldeveloper
